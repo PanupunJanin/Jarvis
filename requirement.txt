@@ -1,0 +1,6 @@
+openai-whisper
+openai==0.28
+speechrecognition
+pyttsx3
+pyaudio
+python-decouple
